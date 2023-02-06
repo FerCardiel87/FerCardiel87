@@ -1,6 +1,5 @@
 <img src="https://github.com/FerCardiel87/svg/blob/main/svg.svg"/>
 
-<!--
 <h3 align="center">A passionate Backend Developer from Mexico City</h3>
 
 - 🌱 I’m currently learning **Python, Java, Spark, SQL, Power BI, Microsoft Azure, Google Cloud Plataform and Kafka.**
